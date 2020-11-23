@@ -2,6 +2,11 @@
 
 A tip calculator application.
 
+Based on Krissanawat's tutorial (https://www.freecodecamp.org/news/build-a-tip-calculator-with-flutter/).
+
+Dark Mode implementation based on Khalil Mejdi's article (https://itnext.io/an-easy-way-to-switch-between-dark-and-light-theme-in-flutter-fb971155eefe).
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
